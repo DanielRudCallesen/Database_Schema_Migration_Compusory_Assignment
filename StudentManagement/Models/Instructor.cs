@@ -9,4 +9,6 @@ public class Instructor
     public DateTime HireDate { get; set; }
 
     public ICollection<Course> Courses { get; set; } = new List<Course>();
+
+    public Department? DepartmentHeadOf { get; set; }
 }
