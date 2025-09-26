@@ -1,15 +1,6 @@
 {
   "version": 3,
   "targets": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    "net8.0": {
-=======
-<<<<<<< Updated upstream
-=======
->>>>>>> Stashed changes
-    "net8.0": {}
-=======
     "net8.0": {
       "Azure.Core/1.38.0": {
         "type": "package",
@@ -135,10 +126,6 @@
           }
         }
       },
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       "Microsoft.EntityFrameworkCore/9.0.9": {
         "type": "package",
         "dependencies": {
@@ -177,11 +164,6 @@
       "Microsoft.EntityFrameworkCore.Analyzers/9.0.9": {
         "type": "package"
       },
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
       "Microsoft.EntityFrameworkCore.Relational/9.0.9": {
         "type": "package",
         "dependencies": {
@@ -223,10 +205,6 @@
           }
         }
       },
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       "Microsoft.Extensions.Caching.Abstractions/9.0.9": {
         "type": "package",
         "dependencies": {
@@ -269,11 +247,6 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
       "Microsoft.Extensions.Configuration/9.0.9": {
         "type": "package",
         "dependencies": {
@@ -441,10 +414,6 @@
           "buildTransitive/net8.0/Microsoft.Extensions.Configuration.UserSecrets.targets": {}
         }
       },
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       "Microsoft.Extensions.DependencyInjection/9.0.9": {
         "type": "package",
         "dependencies": {
@@ -480,11 +449,6 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
       "Microsoft.Extensions.Diagnostics/9.0.9": {
         "type": "package",
         "dependencies": {
@@ -646,10 +610,6 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       "Microsoft.Extensions.Logging/9.0.9": {
         "type": "package",
         "dependencies": {
@@ -691,11 +651,6 @@
           "buildTransitive/net8.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
       "Microsoft.Extensions.Logging.Configuration/9.0.9": {
         "type": "package",
         "dependencies": {
@@ -814,10 +769,6 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       "Microsoft.Extensions.Options/9.0.9": {
         "type": "package",
         "dependencies": {
@@ -838,11 +789,6 @@
           "buildTransitive/net8.0/Microsoft.Extensions.Options.targets": {}
         }
       },
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
       "Microsoft.Extensions.Options.ConfigurationExtensions/9.0.9": {
         "type": "package",
         "dependencies": {
@@ -866,10 +812,6 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       "Microsoft.Extensions.Primitives/9.0.9": {
         "type": "package",
         "compile": {
@@ -886,11 +828,6 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
       "Microsoft.Identity.Client/4.61.3": {
         "type": "package",
         "dependencies": {
@@ -1115,10 +1052,6 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       "System.Diagnostics.DiagnosticSource/9.0.9": {
         "type": "package",
         "compile": {
@@ -1134,11 +1067,6 @@
         "build": {
           "buildTransitive/net8.0/_._": {}
         }
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
       },
       "System.Diagnostics.EventLog/9.0.9": {
         "type": "package",
@@ -1551,19 +1479,10 @@
             "rid": "win"
           }
         }
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       }
     }
   },
   "libraries": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
     "Azure.Core/1.38.0": {
       "sha512": "IuEgCoVA0ef7E4pQtpC3+TkPbzaoQfa77HlfJDmfuaJUCVJmn7fT0izamZiryW5sYUFKizsftIxMkXKbgIcPMQ==",
       "type": "package",
@@ -1772,10 +1691,6 @@
         "runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll"
       ]
     },
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
     "Microsoft.EntityFrameworkCore/9.0.9": {
       "sha512": "zkt5yQgnpWKX3rOxn+ZcV23Aj0296XCTqg4lx1hKY+wMXBgkn377UhBrY/A4H6kLpNT7wqZN98xCV0YHXu9VRA==",
       "type": "package",
@@ -1821,11 +1736,6 @@
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
     "Microsoft.EntityFrameworkCore.Relational/9.0.9": {
       "sha512": "SonFU9a8x4jZIhIBtCw1hIE3QKjd4c7Y3mjptoh682dfQe7K9pUPGcEV/sk4n8AJdq4fkyJPCaOdYaObhae/Iw==",
       "type": "package",
@@ -1856,10 +1766,6 @@
         "microsoft.entityframeworkcore.sqlserver.nuspec"
       ]
     },
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
     "Microsoft.Extensions.Caching.Abstractions/9.0.9": {
       "sha512": "NgtRHOdPrAEacfjXLSrH/SRrSqGf6Vaa6d16mW2yoyJdg7AJr0BnBvxkv7PkCm/CHVyzojTK7Y+oUDEulqY1Qw==",
       "type": "package",
@@ -1916,11 +1822,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
     "Microsoft.Extensions.Configuration/9.0.9": {
       "sha512": "w87wF/90/VI0ZQBhf4rbMEeyEy0vi2WKjFmACsNAKNaorY+ZlVz7ddyXkbADvaWouMKffNmR0yQOGcrvSSvKGg==",
       "type": "package",
@@ -2162,10 +2063,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
     "Microsoft.Extensions.DependencyInjection/9.0.9": {
       "sha512": "zQV2WOSP+3z1EuK91ULxfGgo2Y75bTRnmJHp08+w/YXAyekZutX/qCd88/HOMNh35MDW9mJJJxPpMPS+1Rww8A==",
       "type": "package",
@@ -2226,11 +2123,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
     "Microsoft.Extensions.Diagnostics/9.0.9": {
       "sha512": "gtzl9SD6CvFYOb92qEF41Z9rICzYniM342TWbbJwN3eLS6a5fCLFvO1pQGtpMSnP3h1zHXupMEeKSA9musWYCQ==",
       "type": "package",
@@ -2429,10 +2321,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
     "Microsoft.Extensions.Logging/9.0.9": {
       "sha512": "MaCB0Y9hNDs4YLu3HCJbo199WnJT8xSgajG1JYGANz9FkseQ5f3v/llu3HxLI6mjDlu7pa7ps9BLPWjKzsAAzQ==",
       "type": "package",
@@ -2534,11 +2422,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
     "Microsoft.Extensions.Logging.Configuration/9.0.9": {
       "sha512": "Abuo+S0Sg+Ke6vzSh5Ell+lwJJM+CEIqg1ImtWnnqF6a/ibJkQnmFJi4/ekEw/0uAcdFKJXtGV7w6cFN0nyXeg==",
       "type": "package",
@@ -2676,10 +2559,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
     "Microsoft.Extensions.Options/9.0.9": {
       "sha512": "loxGGHE1FC2AefwPHzrjPq7X92LQm64qnU/whKfo6oWaceewPUVYQJBJs3S3E2qlWwnCpeZ+dGCPTX+5dgVAuQ==",
       "type": "package",
@@ -2725,11 +2604,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
     "Microsoft.Extensions.Options.ConfigurationExtensions/9.0.9": {
       "sha512": "n4DCdnn2qs6V5U06Sx62FySEAZsJiJJgOzrPHDh9hPK7c2W8hEabC76F3Re3tGPjpiKa02RvB6FxZyxo8iICzg==",
       "type": "package",
@@ -2758,10 +2632,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
     "Microsoft.Extensions.Primitives/9.0.9": {
       "sha512": "z4pyMePOrl733ltTowbN565PxBw1oAr8IHmIXNDiDqd22nFpYltX9KhrNC/qBWAG1/Zx5MHX+cOYhWJQYCO/iw==",
       "type": "package",
@@ -2790,11 +2660,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
     "Microsoft.Identity.Client/4.61.3": {
       "sha512": "naJo/Qm35Caaoxp5utcw+R8eU8ZtLz2ALh8S+gkekOYQ1oazfCQMWVT4NJ/FnHzdIJlm8dMz0oMpMGCabx5odA==",
       "type": "package",
@@ -3090,10 +2955,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
     "System.Diagnostics.DiagnosticSource/9.0.9": {
       "sha512": "8hy61dsFYYSDjT9iTAfygGMU3A0EAnG69x5FUXeKsCjMhBmtTBt4UMUEW3ipprFoorOW6Jw/7hDMjXtlrsOvVQ==",
       "type": "package",
@@ -3120,12 +2981,6 @@
         "system.diagnostics.diagnosticsource.nuspec",
         "useSharedDesignerContext.txt"
       ]
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    }
-=======
-=======
->>>>>>> Stashed changes
     },
     "System.Diagnostics.EventLog/9.0.9": {
       "sha512": "wpsUfnyv8E5K4WQaok6weewvAbQhcLwXFcHBm5U0gdEaBs85N//ssuYvRPFWwz2rO/9/DFP3A1sGMzUFBj8y3w==",
@@ -4020,34 +3875,13 @@
         "useSharedDesignerContext.txt"
       ]
     }
->>>>>>> Stashed changes
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   },
   "projectFileDependencyGroups": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    "net8.0": [
-      "Microsoft.EntityFrameworkCore >= 9.0.9"
-    ]
-=======
-<<<<<<< Updated upstream
-=======
->>>>>>> Stashed changes
-    "net8.0": []
-=======
     "net8.0": [
       "Microsoft.EntityFrameworkCore >= 9.0.9",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.9",
       "Microsoft.Extensions.Hosting >= 9.0.9"
     ]
->>>>>>> Stashed changes
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   },
   "packageFolders": {
     "C:\\Users\\Danie\\.nuget\\packages\\": {},
@@ -4098,25 +3932,10 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
-<<<<<<< Updated upstream
-=======
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[9.0.9, )"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-          }
-        },
-=======
-=======
->>>>>>> Stashed changes
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
@@ -4127,11 +3946,6 @@
             "version": "[9.0.9, )"
           }
         },
->>>>>>> Stashed changes
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
         "imports": [
           "net461",
           "net462",

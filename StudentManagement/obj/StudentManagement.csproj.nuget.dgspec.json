@@ -49,25 +49,10 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-<<<<<<< Updated upstream
-=======
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.9, )"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-            }
-          },
-=======
-=======
->>>>>>> Stashed changes
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -78,11 +63,6 @@
               "version": "[9.0.9, )"
             }
           },
->>>>>>> Stashed changes
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
           "imports": [
             "net461",
             "net462",
