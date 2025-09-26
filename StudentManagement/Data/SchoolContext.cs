@@ -30,6 +30,7 @@ public class SchoolContext : DbContext
         modelBuilder.Entity<Course>(e =>
         {
             e.Property(p => p.Title).HasMaxLength(100);
+            e.Property(p => p.Credits).HasColumnType("decimal(5, 2)");
         });
 
         modelBuilder.Entity<Enrollment>(e =>
